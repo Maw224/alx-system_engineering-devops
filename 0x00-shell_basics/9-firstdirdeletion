@@ -1,2 +1,2 @@
 #!/bin/bash
-rm -r /tmp/my_dirst_directory 
+rmdir /tmp/my_dirst_directory 
